@@ -21,6 +21,10 @@
 
     <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
   </properties>
+  
+  <properties>
+  <github.global.server>github</github.global.server>
+  </properties>
 
   <build>
     <plugins>

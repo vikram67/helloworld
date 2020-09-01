@@ -23,7 +23,9 @@
   </properties>
   
   <properties>
-  <github.global.server>github</github.global.server>
+    <username>vikram67</username>
+    <password>Ramaya@67</password>
+    <url>https://github.com/vikram67/helloworld</url>
   </properties>
 
   <build>

@@ -21,12 +21,6 @@
 
     <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
   </properties>
-  
-  <properties>
-    <username>vikram67</username>
-    <password>Ramaya@67</password>
-    <url>https://github.com/vikram67/helloworld</url>
-  </properties>
 
   <build>
     <plugins>
